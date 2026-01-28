@@ -6,6 +6,15 @@ A single-command deployable stack for AI-powered workflow automation with image 
 
 ---
 
+## 📚 Documentation
+
+- **🚀 [QUICK START](QUICK-START.md)** - 3 simple steps to get started
+- **📖 [EASY INSTALL GUIDE](EASY-INSTALL.md)** - Step-by-step with pictures
+- **🔧 [TROUBLESHOOTING](TROUBLESHOOTING.md)** - Fix common problems
+- **📘 Full Documentation** - You're reading it now!
+
+---
+
 ## 🎯 What's Included
 
 | Service | Purpose | Port | URL |
